@@ -5,4 +5,4 @@ To run the code :-
 - if node is installed, than install express : npm install express
 - run command : node server.js or if nodemon package is installed than run : nodemon server.js
 - go to any brower, type in URL section : localhost:3000/bmicalculator
-- ![image of bmi calculator]()
+ ![image of bmi calculator](/bmi-Calculator/mobile.png)
